@@ -1,0 +1,12 @@
+{
+  "name": "mecab",
+  "version": "0.0.1",
+  "description": "Using MeCab",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "mecab-async": "^0.1.2"
+  }
+}
